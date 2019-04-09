@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Linguistics, Washington University in St. Louis, 2017
+* M.S. in Computer Science, Washington University in St. Louis, 2018
+* Ph.D in Data Science (Focus in Public Health), Washington University in St. Louis, 2022 (expected)
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I am moderator of the two largest public science forums in the world, **/r/Science** and **/r/AskScience**. I also facilitate Ask Me Anything sessions with scientists and other notable figures as a moderator of **/r/IAmA**.
