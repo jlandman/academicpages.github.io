@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,26 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Science and Linguistics, Washington University in St. Louis, 2017
-* M.S. in Computer Science, Washington University in St. Louis, 2018
-* Ph.D in Data Science (Focus in Public Health), Washington University in St. Louis, 2022 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **PhD** in Computational and Data Sciences (Public Health Track), Washington University in St. Louis, 2022 (expected)
+* **MS** in Computer Science, Washington University in St. Louis, 2018
+* **BS** in Computer Science & Linguistics, Washington University in St. Louis, 2017
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Doctoral Research
+
+* **Advisor**: Randi Foraker, PhD, MA, FAHA
+* **Coadvisor**: Albert Lai, PhD, FACMA, FAMIA
+* **Lab**: Center for Population Health Informatics at the Institute for Informatics, Washington University School of Medicine
+* **Research areas**: clinical predictive modeling, autoimmune diseases, and social determinants of health
+
   
-Skills
-======
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -42,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joshua Landman"
 title_separator          : "-"
 name                     : &name "Joshua Landman"
-description              : &description "PhD student at Washington University in St. Louis"
+description              : &description "PhD Candidate at Washington University in St. Louis"
 url                      : https://jlandman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jlandman/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Joshua Landman"
   avatar           : "profile.png"
-  bio              : "PhD student at the Center for Population Health Informatics + Division for Computational and Data Sciences @ Washington University in St. Louis"
+  bio              : "PhD Candidate at the Center for Population Health Informatics -- Washington University in St. Louis"
   location         : "St. Louis, MO"
   employer         :
   pubmed           :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "0000-0003-2431-6053"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
