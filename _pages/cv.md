@@ -52,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* I am a moderator of the two largest public science forums in the world, **/r/Science** and **/r/AskScience**. I also facilitate Ask Me Anything sessions with scientists and other notable figures as a moderator of **/r/IAmA**.
+* I am formerly a moderator of the two largest public science forums in the world, **/r/Science** and **/r/AskScience**. I also facilitate Ask Me Anything sessions with scientists and other notable figures as a moderator of **/r/IAmA**.
